@@ -311,5 +311,10 @@ Date:   Thu Feb 17 15:11:20 2022 +0530
 
 ```
 
+### Let's Push the repo to github
 
+1. Create a Empty Github Repo 
+2. Copy the link of this repo 
+3. `git remote add origin` for adding remote link to our repository 
+4. `git push origin main` Push the repo to the main branch of the remote repo
 

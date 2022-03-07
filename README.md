@@ -1,13 +1,13 @@
-    # Getting Started with GIT
+    #Getting Started with GIT
 
-    ## 1.  Check Git Version 
+    ##1.  Check Git Version 
 
     ```
     git --version
 
     ```
 
-    ## 2. Create Project 
+    ##2. Create Project 
 
     ```
     mkdir my-project
@@ -18,14 +18,14 @@
     Creates all files for git management(mostly hidden)
     .gitignore => we will discuss it 
 
-    ## 3. Create your first file in project
+    ##3. Create your first file in project
 
     ```
     touch index.html
 
     ```
 
-    ## 4. Add Content to your file
+    ##4. Add Content to your file
 
     ```html
     <!DOCTYPE html>
@@ -43,7 +43,7 @@
 
     ```
 
-    ## 5. Check Status of your project with 
+    ##5. Check Status of your project with 
 
     ```
     git status
@@ -63,7 +63,7 @@
 
     ```
 
-    ### 6. Lets Add the file to Staging Area 
+    ###6. Lets Add the file to Staging Area 
 
     Before Add lets Understand Commiting and Staging in git
 
@@ -93,7 +93,7 @@
 
     ```
 
-    ### 7. Lets Commit our first Change
+    ###7. Lets Commit our first Change
 
     ```
     git commit -m "Added My First File"
@@ -104,7 +104,7 @@
 
     ```
 
-    ### 8. Check Status Again 
+    ###8. Check Status Again 
 
     ```
 
@@ -114,7 +114,7 @@
 
     ```
 
-    ### 9. Lets CHeck Our History of Commit (Snapshot of Changes)
+    ###9. Lets CHeck Our History of Commit (Snapshot of Changes)
 
     ```
     $ git log 
@@ -126,7 +126,7 @@
 
     ```
 
-    ### 10. Lets do some more changes and see the log again
+    ###10. Lets do some more changes and see the log again
 
     ```
     $ touch style.css
@@ -152,22 +152,22 @@
     ```
 
 
-    # Lets Work With Branches
+    #Lets Work With Branches
 
-    ## Why Branches 
+    ##Why Branches 
     FOr new features | Working Concurrently on different things 
 
 
-# Getting Started with GIT
+#Getting Started with GIT
 
-## 1.  Check Git Version 
+##1.  Check Git Version 
 
 ```
 git --version
 
 ```
 
-## 2. Create Project 
+##2. Create Project 
 
 ```
 mkdir my-project
@@ -178,14 +178,14 @@ git init
 Creates all files for git management(mostly hidden)
 .gitignore => we will discuss it 
 
-## 3. Create your first file in project
+##3. Create your first file in project
 
 ```
 touch index.html
 
 ```
 
-## 4. Add Content to your file
+##4. Add Content to your file
 
 ```html
 <!DOCTYPE html>
@@ -203,7 +203,7 @@ touch index.html
 
 ```
 
-## 5. Check Status of your project with 
+##5. Check Status of your project with 
 
 ```
 git status
@@ -223,7 +223,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 ```
 
-### 6. Lets Add the file to Staging Area 
+###6. Lets Add the file to Staging Area 
 
 Before Add lets Understand Commiting and Staging in git
 
@@ -253,7 +253,7 @@ Changes to be committed:
 
 ```
 
-### 7. Lets Commit our first Change
+###7. Lets Commit our first Change
 
 ```
 git commit -m "Added My First File"
@@ -264,7 +264,7 @@ git commit -m "Added My First File"
 
 ```
 
-### 8. Check Status Again 
+###8. Check Status Again 
 
 ```
 
@@ -274,7 +274,7 @@ nothing to commit, working tree clean
 
 ```
 
-### 9. Lets CHeck Our History of Commit (Snapshot of Changes)
+###9. Lets CHeck Our History of Commit (Snapshot of Changes)
 
 ```
 $ git log 
@@ -286,7 +286,7 @@ Date:   Thu Feb 17 15:11:20 2022 +0530
 
 ```
 
-### 10. Lets do some more changes and see the log again
+###10. Lets do some more changes and see the log again
 
 ```
 $ touch style.css
@@ -311,7 +311,7 @@ Date:   Thu Feb 17 15:11:20 2022 +0530
 
 ```
 
-### Let's Push the repo to github
+###Let's Push the repo to github
 
 1. Create a Empty Github Repo 
 2. Copy the link of this repo 

@@ -318,3 +318,7 @@ Date:   Thu Feb 17 15:11:20 2022 +0530
 3. `git remote add origin` for adding remote link to our repository 
 4. `git push origin main` Push the repo to the main branch of the remote repo
 
+### Want to Learn More?
+
+Check out the (git cheat sheet)['https://about.gitlab.com/images/press/git-cheat-sheet.pdf']
+

@@ -320,5 +320,5 @@ Date:   Thu Feb 17 15:11:20 2022 +0530
 
 ### Want to Learn More?
 
-Check out the (git cheat sheet)['https://about.gitlab.com/images/press/git-cheat-sheet.pdf']
+Check out the <a name="git cheat sheet" href='https://about.gitlab.com/images/press/git-cheat-sheet.pdf'>git cheat sheet</a>
 

@@ -1,5 +1,15 @@
 # Getting Started with GIT
 
+## 0 Setup config
+
+```
+
+git config --global user.name “Your Name”
+git config --global user.email “you@example.com”
+
+```
+
+
 ## 1.  Check Git Version 
 
 ```

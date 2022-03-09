@@ -328,4 +328,3 @@ git commit
 ### Want to Learn More?
 
 Check out the <a name="git cheat sheet" target="_blank" href='https://about.gitlab.com/images/press/git-cheat-sheet.pdf'>git cheat sheet</a>
-

@@ -311,6 +311,13 @@ Date:   Thu Feb 17 15:11:20 2022 +0530
 
 ```
 
+### Rolling Back to Commit Code 
+
+```
+git revert --no-commit 0766c053..HEAD
+git commit
+```
+
 ### Let's Push the repo to github
 
 1. Create a Empty Github Repo 
